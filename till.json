@@ -1,6 +1,6 @@
 {
   "tillno" : "6069761",
-  "tillname" : "HAKIKA PROVISIONS",
+  "tillname" : ".",
   "payamount" : "Ksh 110",
   "payamount1" : "Ksh190",
   "payamount2" : "Ksh 290",
@@ -45,5 +45,5 @@
   "ln28" : "47",
   "ln29" : "afterpay",
   "payamount5" : "Ksh 975",
-  "payhero" : "https://payhero-api.onrender.com"
+  "payhero" : "https://vukash-api.onrender.com"
 }
