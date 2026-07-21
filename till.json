@@ -1,11 +1,11 @@
 {
   "tillno" : "6069761",
   "tillname" : ".",
-  "payamount" : "Ksh 110",
-  "payamount1" : "Ksh190",
-  "payamount2" : "Ksh 290",
-  "payamount3" : "Ksh 380",
-  "payamount4" : "Ksh 480",
+  "payamount" : "Ksh 150",
+  "payamount1" : "Ksh250",
+  "payamount2" : "Ksh 300",
+  "payamount3" : "Ksh 400",
+  "payamount4" : "Ksh 550",
   "sign" : "Empower your credit",
   "signup" : "Easy steps to take",
   "eligtitle" : "Loan Eligibility",
@@ -43,7 +43,7 @@
   "ln26" : "The actual loan amount shall be subject to the approval result.",
   "ln27" : "Share our app to atleast 5 people and get 21% loan waiver.",
   "ln28" : "47",
-  "ln29" : "afterpay",
+  "ln29" : "show",
   "payamount5" : "Ksh 975",
-  "payhero" : "https://caleb-api.onrender.com"
+  "payhero" : "https://okoa-chapchap-api.onrender.com"
 }
